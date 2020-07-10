@@ -1,5 +1,7 @@
 # ansible-nginx
 
+Playbook for deploying nginx on AmazonLinux2.
+
 ### Install ansible
 
 ```sh
